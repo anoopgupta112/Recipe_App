@@ -20,7 +20,7 @@ function Search() {
                 {/* icon for search  */}
                 <FaSearch />
                 <input onChange={(e) => { setInput(e.target.value) }}
-                    type="text" value={input} placeholder="Try Indian, Thai etc" />
+                    type="text" value={input} placeholder="Try Indian, Thai etc." />
             </div>
 
         </FormStyle>

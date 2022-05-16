@@ -30,6 +30,7 @@ function Papular() {
     }
     return (
         <div>
+
             <Wrapper>
                 <h3>Popular picks</h3>
 
